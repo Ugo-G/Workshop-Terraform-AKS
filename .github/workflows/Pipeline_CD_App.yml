@@ -7,7 +7,7 @@ env: # variables
   RG_NAME: "RG-AKSCluster-UGI"
   CLUSTER_NAME: "AKS-000-UGI" 
   REGISTRY_NAME: "acrlesbarbus00ugi"
-  APP_NAME: "coolapiugi"
+  APP_NAME: "coolapi"
   IMAGE_VERSION: "1.0.0"
 
 jobs:
